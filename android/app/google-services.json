@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400154946836",
+    "project_id": "yctask-a7f16",
+    "storage_bucket": "yctask-a7f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400154946836:android:4750fd1d2b7c0168016601",
+        "android_client_info": {
+          "package_name": "com.example.yctask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400154946836-v491eptfka75mtj7443nmecf4b4iffqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yctask",
+            "certificate_hash": "89842a134aa048fb01832e3043bd1c925d443fff"
+          }
+        },
+        {
+          "client_id": "400154946836-s3sdunvne3asagck6cgjvh2lctt77h5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztkXwo6FyWBICSTXyBkfssRH2FrRMB8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400154946836-s3sdunvne3asagck6cgjvh2lctt77h5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
